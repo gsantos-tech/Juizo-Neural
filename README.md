@@ -8,7 +8,7 @@
 
 O sistema recebe um caso jurídico hipotético como entrada e gera:
 
-1. **Resposta do Juiz 1 (Defensor)** – Utiliza o modelo Microsoft Phi-4
+1. **Resposta do Juiz 1 (Defensor)** – Utiliza o modelo LLaMA 3.3
 2. **Resposta do Juiz 2 (Acusador)** – Utiliza o modelo DeepSeek
 3. **Veredito Final do Juiz Avaliador** – Utiliza o modelo Gemini Pro
 
@@ -122,7 +122,7 @@ Servidor disponível em: [http://localhost:4000](http://localhost:4000)
   "pergunta": "...",
   "respostas": [
     {
-      "modelo": "microsoft/phi-4-reasoning-plus:free",
+      "modelo": "meta-llama/llama-3.3-8b-instruct:free",
       "origem": "Juiz 1 (Defesa)",
       "conteudo": "..."
     },
