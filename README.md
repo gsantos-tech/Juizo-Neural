@@ -183,11 +183,10 @@ Servidor disponível em: [http://localhost:4000](http://localhost:4000)
 
 ## 👨‍🏫 Autoria
 
-Desenvolvido por **Brayan**  
+Desenvolvido por **Gabriel**  
 Curso: **Sistemas de Informação**  
 Instituição: **Faculdade Antonio Meneghetti (AMF)**  
 Disciplina: **Inteligência Artificial – 2025/01**  
-Professor: **Tarcisio Ceolin Jr.**
 
 ---
 
